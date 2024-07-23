@@ -8,7 +8,7 @@
 </head>
 <body>
      <%
-        String str = "Hello World JSP";
+        String str = "welcome to you in JSP world";
     %>
     <h1><%= str %></h1>
     <p>Current Date and Time: <%= new Date() %></p>
