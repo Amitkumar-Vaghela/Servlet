@@ -39,19 +39,3 @@ This project demonstrates the use of Java Servlets to create dynamic web applica
 
 ## Getting Started
 
-1. Clone the Repository
-```bash
-git clone https://github.com/
-cd your-repository-name
-
-2. Compile and Build the Project
- mvn clean install
-
-3. Deploy to Tomcat
-Copy the generated WAR file (from the target/ directory if using Maven) to the webapps folder of your Tomcat installation.
-Start the Tomcat server.
-
-4. Access the Application
-Open your web browser and go to:
- http://localhost:8080/your-webapp-name
-
